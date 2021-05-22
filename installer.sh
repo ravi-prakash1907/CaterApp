@@ -1,5 +1,11 @@
 #pip install . -r requirements.txt
 
+## installing at loc
+CATERPATH="~/"
+echo "Installing CaterApp in home directory ($HOME)..."
+mkdir ~/CaterApp
+mv ../CaterApp/* ~/CaterApp/
+
 ## setting start command
 callAlias="alias cater-app=\"python ~/CaterApp/caterapp/cater.py\""
 CATERHEADER="# >>> CaterApp command >>>"
@@ -38,3 +44,5 @@ fi
 echo "-------------------"
 
 printf "\nUse 'cater-app' to use the application\n\n"
+
+rm -rf ../CaterApp/
