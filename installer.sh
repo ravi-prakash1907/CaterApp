@@ -1,4 +1,5 @@
-#pip install . -r requirements.txt
+# installing required libraries
+pip install . -r requirements.txt
 
 ## installing at loc
 CATERPATH="~/"
