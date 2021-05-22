@@ -7,15 +7,15 @@ _A Quick & Secuured Data Sharing Application!_
 ![Python minimum version](https://img.shields.io/badge/cater-1.1-blue)
 
 # ✉️ Description
-CaterApp is a cross remote device data sharing tool created for sharing files in a quick and secured manner. It is aimed to integrate this tool with several more features including providing an User Interface.\
+CaterApp is a cross remote device data sharing tool created for sharing files in a quick and secured manner. It is aimed to integrate this tool with several more features including providing a User Interface.\
 The _version 1.1_ of the CaterApp currently works with **command line interface** i.e. **CLI**.
 
 ## 💥 What's so exciting ?  
 CaterApp comes with a range of fantastic features for you:  
-1. Share **any** type of file including large videos and compressed documents.  
+1. Share **any** type of file, including large videos and compressed documents.  
 2. You can choose as much files as you want.  
-3. Keeps you updated with the files i.e. being shared in realtime.  
-4. Also you displays the size of files (in bytes).  
+3. Keeps you updated with the files, i.e. being shared in real time.  
+4. Also, it displays the size of files (in bytes).  
 5. Tells the **speed** at which the data got delivered and a lot more...
 
 # 📌 Installation  
@@ -23,7 +23,7 @@ This is a `python` application and especially dependent on the [**cater**](https
 It can be installed :
 
 ## ❓ Requirements  
-1. Any linux system or installed bash / zsh terminal (preferred)  
+1. Any Linux system or installed bash / zsh terminal (preferred)  
 2. Python 3.2 or higher version  
 3. pip (latest recommended)  
 
@@ -36,7 +36,7 @@ Installation can be done through CLI in just a few of the simple steps:
 ```sh
 $ ./installer.sh
 ```
-After successful installtion, you should see something like this:  
+After successful installation, you should see something like this:  
 ![installing screenshot](./assets/installation.png)  
 
 # 🤔 Usage  
