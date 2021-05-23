@@ -62,6 +62,7 @@ As an alternative, you can also follow the following:
 $ cd ~/CaterApp/caterapp
 $ python cater.py
 ```
+To use the app **without installation**, please refer to [this link](./caterapp/).
 
 ## 🤝 Contributing  
 If you wish to contribute in this project, you can always **fork** this repo and generate a pull request with new changes. You may also raise issues, if any.  
