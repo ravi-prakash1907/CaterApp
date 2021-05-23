@@ -8,8 +8,8 @@ Once you have downloaded the application, you can use it in following easy steps
     ```sh 
     $ python cater.py
     ```
-
+  
 _For using this tool through the above mentioned steps, **you need not install** the CaterApp, actually!_  
 
 ---  
-[Bach to home](../)
+[Back to Home](../)
