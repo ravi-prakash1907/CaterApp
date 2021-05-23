@@ -1,7 +1,7 @@
 # **CaterApp - v1.1** (stable)
 ![icon banner](./assets/logo.jpg)
 
-_A Quick & Secuured Data Sharing Application!_  
+_A Quick & Secured Data Sharing Application!_  
 
 ![Python minimum version](https://img.shields.io/badge/Python-3.2%2B-brightgreen)
 ![Python minimum version](https://img.shields.io/badge/cater-1.1-blue)
