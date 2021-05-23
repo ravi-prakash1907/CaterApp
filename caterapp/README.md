@@ -1,10 +1,10 @@
 # Using without installation
-An instent file sharing application.\
+It is a python based instant file sharing application.\
 Once you have downloaded the application, you can use it in following easy steps:
 
-1. Navigate to **CaterApp/caterapp** directory
-2. Open the _bash_ or _zsh_ terminal (you may also open the the python shell)
-3. Run the [**cater.py**](cater.py) script using following command:
+1. Navigate the **CaterApp/caterer** directory  
+2. Open the _bash_ or _zsh_ terminal (you may also open the the python shell)  
+3. Run the [**cater.py**](cater.py) script using the following command:  
     ```sh 
     $ python cater.py
     ```
