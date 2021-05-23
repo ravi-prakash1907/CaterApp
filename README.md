@@ -1,4 +1,4 @@
-# **CaterApp - v1.1** (bate)   
+# **CaterApp - v1.1** (beta)   
 
 <p align="center">
   <a href="#-installation">Installation</a>
