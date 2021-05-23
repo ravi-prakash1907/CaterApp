@@ -1,17 +1,11 @@
-# cater
-An instent file sharing application based on TCP  
+# Using without installation
+An instent file sharing application.\
+Once you have downloaded the application, you can use it in following easy steps:
 
-### Accessing through Terminal/Command-line  
-The python version of this application is latest!  
-
-1. Open the app by running ```python3 cater.py```  
-2. The the desired option.
-    - If you are the sender:  
-        - Set up your `IP-Address` or `Hosting URL`  
-        - Wait for the reciver to connect  
-        - Choose the files that you want to send  
-    - If you are the receiver  
-        - Provide the sender's `IP-Address` or `Hosting URL`  
-        - Wait for the files to arrive  
-3. _You can use localhost (127.0.0.1) for testing on the same machine._  
-
+1. Navigate to **CaterApp/caterapp** directory
+2. Open the _bash_ or _zsh_ terminal (you may also open the the python shell)
+3. Run the [**cater.py**](cater.py) script using following command:
+    ```sh 
+    $ python cater.py
+    ```
+_For using this tool through the above mentioned steps, **you need not install** the CaterApp, actually!_
