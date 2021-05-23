@@ -34,10 +34,9 @@ CaterApp comes with a range of fantastic features for you:
 
 ## 📌 Installation  
 This is a `python` application that relies on its [**cater**](https://github.com/ravi-prakash1907/cater) module.  
-It can be installed :
 
 ### ❓ Requirements  
-1. Any Linux system or installed bash / zsh terminal (preferred)  
+1. A device with any operating system having bash / zsh terminal or python shell(preferred Linux)  
 2. Python 3.2 or higher version  
 3. pip (latest recommended)  
 
