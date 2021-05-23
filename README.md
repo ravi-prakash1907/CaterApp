@@ -62,6 +62,14 @@ As an alternative, you can also follow the following:
 $ cd ~/CaterApp/caterapp
 $ python cater.py
 ```
+#### Remember
+1. Keep the file(s) in current working directory, that you want to sahre.  
+2. All your received files will appear in **received/** directory at the current location. 
+3. To know your current location before sharing / receiving the files, run:  
+```sh
+$ pwd
+```  
+
 To use the app **without installation**, please refer to [this link](./caterapp/).
 
 ## 🤝 Contributing  
