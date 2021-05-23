@@ -13,7 +13,7 @@
 <!-- _A Quick & Secured Data Sharing Application!_ --> 
 
 ![Python minimum version](https://img.shields.io/badge/Python-3.2%2B-brightgreen)
-[![cater minimum version](https://img.shields.io/badge/cater-0.1-blue)](https://github.com/ravi-prakash1907/cater)
+[![cater minimum version](https://img.shields.io/badge/cater-0.1%2B-blue)](https://github.com/ravi-prakash1907/cater)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Website](https://img.shields.io/badge/website-up-lightgreen)](https://ravi-prakash1907.github.io/CaterApp)
 [![Twitter](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/73MP0R4L)
