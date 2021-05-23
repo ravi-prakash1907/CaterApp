@@ -33,7 +33,7 @@ CaterApp comes with a range of fantastic features for you:
 6. Tells the **speed** at which the data got delivered and a lot more...
 
 ## 📌 Installation  
-This is a `python` application that relies on its [**cater**](https://github.com/ravi-prakash1907/cater) module.  
+This is a `python` application that relies on its [**cater**](https://ravi-prakash1907.github.io/cater/) module.  
 
 ### ❓ Requirements  
 1. A device with any operating system having bash / zsh terminal or python shell(preferred Linux)  
