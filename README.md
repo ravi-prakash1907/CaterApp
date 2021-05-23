@@ -70,4 +70,4 @@ If you wish to contribute in this project, you can always **fork** this repo and
 🌟 Happy sharing!!! 🌟
 
 ---  
-_Developed by [ravi](http://ravi-prakash1907.gitlab.io/) in 🐍 with ❤️_
+_Developed by [ravi](http://ravi-prakash1907.gitlab.io/) with ❤️ in 🐍_
