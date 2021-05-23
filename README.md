@@ -48,7 +48,8 @@ Installation can be done through CLI in just a few of the simple steps:
 3. Execute the `installer.sh` to install the application through following terminal command:  
 ```sh
 $ ./installer.sh
-```
+```  
+  
 After successful installation, you should see something like this:  
 ![installing screenshot](./assets/installation.png)  
 
