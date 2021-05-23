@@ -41,7 +41,7 @@ It can be installed :
 ### ➡ Steps to Install
 Installation can be done through CLI in just a few of the simple steps:  
 
-1. Either clone this repository or simply download the CaterApp-v1.1 here \( [zip](https://github.com/ravi-prakash1907/CaterApp/archive/refs/tags/v1.1.zip), [tar.gz](https://github.com/ravi-prakash1907/CaterApp/archive/refs/tags/v1.1.tar.gz) \)  
+1. Either clone this repository or simply download the CaterApp-v1.1 here \( [tar](https://github.com/ravi-prakash1907/CaterApp/archive/refs/tags/v1.1.tar.gz), [zip](https://github.com/ravi-prakash1907/CaterApp/archive/refs/tags/v1.1.zip) \)  
 2. Extract the compressed file (if you have cloned/downloaded) and navigate into **CaterApp** directory  
 3. Execute the `installer.sh` to install the application through following terminal command:  
 ```sh
