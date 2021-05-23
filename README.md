@@ -27,7 +27,7 @@ The _version 1.1_ of the CaterApp currently works with **command line interface*
 CaterApp comes with a range of fantastic features for you:  
 1. Share **any** type of file, including large videos and compressed documents.  
 2. You can choose as much files as you want.  
-3. Keeps you updated with the files, i.e. being shared in real time.  
+3. Keeps you updated with the file, i.e. being shared in real time.  
 4. Also, it displays the size of files (in bytes).  
 5. Automatically detects sender's IP.  
 6. Tells the **speed** at which the data got delivered and a lot more...
