@@ -1,8 +1,4 @@
-# UPDATES WILL BE INITIALLY DONE AND TESTED HERE BEFORE RELEASING THE STABLE VERSION
-
----  
-
-## **CaterApp - v1.1** (beta)   
+# **CaterApp - v1.1** (beta)   
 
 <p align="center">
   <a href="#-installation">Installation</a>
