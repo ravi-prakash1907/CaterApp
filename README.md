@@ -43,7 +43,7 @@ This is a `python` application that relies on its [**cater**](https://github.com
 ### ➡ Steps to Install
 Installation can be done through CLI in just a few of the simple steps:  
 
-1. Either clone this repository or simply download the CaterApp-v1.1 here \([tar](https://github.com/ravi-prakash1907/CaterApp/archive/refs/tags/v1.1.tar.gz), [zip](https://github.com/ravi-prakash1907/CaterApp/archive/refs/tags/v1.1.zip)\)  
+1. Either clone this repository or simply download the CaterApp-v1.1 here \([tar](https://github.com/ravi-prakash1907/CaterApp/archive/refs/tags/v1.1-beta.tar.gz), [zip](https://github.com/ravi-prakash1907/CaterApp/archive/refs/tags/v1.1-beta.zip)\)  
 2. Extract the compressed file (if you have cloned/downloaded) and navigate into **CaterApp** directory  
 3. Execute the `installer.sh` to install the application through following terminal command:  
 ```sh
