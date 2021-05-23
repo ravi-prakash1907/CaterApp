@@ -1,4 +1,4 @@
-# **CaterApp - v1.1** (stable)
+# **CaterApp - v1.1** 
 ![icon banner](./assets/logo.jpg)
 
 _A Quick & Secured Data Sharing Application!_  
@@ -7,7 +7,7 @@ _A Quick & Secured Data Sharing Application!_
 ![Python minimum version](https://img.shields.io/badge/cater-1.1-blue)
 
 # ✉️ Description
-CaterApp is a cross remote device data sharing tool created for sharing files in a quick and secured manner. It is aimed to integrate this tool with several more features including providing a User Interface.\
+CaterApp is a cross platform, remotely data sharing tool created for sharing files in a quick and secured manner. It is aimed to integrate this tool with several more features including providing a User Interface.\
 The _version 1.1_ of the CaterApp currently works with **command line interface** i.e. **CLI**.
 
 ## 💥 What's so exciting ?  
