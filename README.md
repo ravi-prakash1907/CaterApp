@@ -69,7 +69,8 @@ $ python cater.py
 #### Remember
 1. Keep the file(s) in current working directory, that you want to sahre.  
 2. All your received files will appear in **received/** directory at the current location. 
-3. To know your current location before sharing / receiving the files, run:  
+3. Both - the sender and reciever must be at the same network.  
+4. To know your current location before sharing / receiving the files, run:  
 ```sh
 $ pwd
 ```  
