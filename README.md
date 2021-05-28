@@ -53,6 +53,15 @@ Installation can be done through CLI in just a few of the simple steps:
 ```sh
 $ ./installer.sh
 ```
+### Alternate Method 
+If you love the terminal than following method is indeed for you:  
+```sh
+$ wget https://github.com/ravi-prakash1907/CaterApp/archive/refs/tags/v1.1-beta.zip
+$ unzip v1.1-beta.zip
+$ cd CaterApp-1.1-beta
+$ sh ./installer.sh
+```
+
 After successful installation, you should see something like this:  
 ![installing screenshot](./assets/installation.png)  
 
