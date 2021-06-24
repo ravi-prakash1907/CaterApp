@@ -2,7 +2,7 @@
 
 ---  
 
-## **CaterApp - v1.1**  
+## **CaterApp - v2.0** (beta)  
 
 <p align="center">
   <a href="#-installation">Installation</a>
