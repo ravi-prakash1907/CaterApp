@@ -1,7 +1,3 @@
-# UPDATES WILL BE INITIALLY DONE AND TESTED HERE BEFORE RELEASING THE STABLE VERSION
-
----  
-
 ## **CaterApp - v1.1**  
 
 <p align="center">
