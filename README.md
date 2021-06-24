@@ -61,7 +61,7 @@ $ wget https://github.com/ravi-prakash1907/CaterApp/archive/refs/tags/v1.1.zip
 $ unzip v1.1.zip
 $ cd CaterApp-1.1
 $ sh ./installer.sh
-```
+```  
 
 After successful installation, you should see something like this:  
 ![installing screenshot](./assets/installation.png)  
