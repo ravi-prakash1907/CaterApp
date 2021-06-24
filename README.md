@@ -2,7 +2,7 @@
 
 ---  
 
-## **CaterApp - v1.1** (beta)   
+## **CaterApp - v1.1**  
 
 <p align="center">
   <a href="#-installation">Installation</a>
@@ -21,7 +21,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Website](https://img.shields.io/badge/website-up-lightgreen)](https://ravi-prakash1907.github.io/CaterApp)
 [![Twitter](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/73MP0R4L)
-[![current version](https://img.shields.io/badge/version-v1.1%20beta-blue)](https://github.com/ravi-prakash1907/CaterApp/releases)
+[![current version](https://img.shields.io/badge/version-v1.1-blue)](https://github.com/ravi-prakash1907/CaterApp/releases)
 
 ## ✉️ Description
 CaterApp is a cross platform, remotely data sharing tool created for sharing files in a quick and secured manner. It is aimed to integrate this tool with several more features including providing a User Interface.\
@@ -34,6 +34,7 @@ CaterApp comes with a range of fantastic features for you:
 3. Keeps you updated with the file, i.e. being shared in real time.  
 4. Also, it displays the size of files (in bytes).  
 5. Automatically detects sender's IP.  
+6. Compresses multiple files before sending, if asked to do that.  
 6. Tells the **speed** at which the data got delivered and a lot more...
 
 ## 📌 Installation  
