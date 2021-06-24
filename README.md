@@ -1,4 +1,8 @@
-# **CaterApp - v1.1** (beta)   
+# UPDATES WILL BE INITIALLY DONE AND TESTED HERE BEFORE RELEASING THE STABLE VERSION
+
+---  
+
+## **CaterApp - v1.1**  
 
 <p align="center">
   <a href="#-installation">Installation</a>
@@ -17,7 +21,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Website](https://img.shields.io/badge/website-up-lightgreen)](https://ravi-prakash1907.github.io/CaterApp)
 [![Twitter](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/73MP0R4L)
-[![current version](https://img.shields.io/badge/version-v1.1%20beta-blue)](https://github.com/ravi-prakash1907/CaterApp/releases)
+[![current version](https://img.shields.io/badge/version-v1.1-blue)](https://github.com/ravi-prakash1907/CaterApp/releases)
 
 ## ✉️ Description
 CaterApp is a cross platform, remotely data sharing tool created for sharing files in a quick and secured manner. It is aimed to integrate this tool with several more features including providing a User Interface.\
@@ -30,6 +34,7 @@ CaterApp comes with a range of fantastic features for you:
 3. Keeps you updated with the file, i.e. being shared in real time.  
 4. Also, it displays the size of files (in bytes).  
 5. Automatically detects sender's IP.  
+6. Compresses multiple files before sending, if asked to do that.  
 6. Tells the **speed** at which the data got delivered and a lot more...
 
 ## 📌 Installation  
@@ -43,13 +48,21 @@ This is a `python` application that relies on its [**cater**](https://ravi-praka
 ### ➡ Steps to Install
 Installation can be done through CLI in just a few of the simple steps:  
 
-1. Either clone this repository or simply download the CaterApp-v1.1 here \([tar](https://github.com/ravi-prakash1907/CaterApp/archive/refs/tags/v1.1-beta.tar.gz), [zip](https://github.com/ravi-prakash1907/CaterApp/archive/refs/tags/v1.1-beta.zip)\)  
+1. Either clone this repository or simply download the CaterApp-v1.1 here \([tar](https://github.com/ravi-prakash1907/CaterApp/archive/refs/tags/v1.1.tar.gz), [zip](https://github.com/ravi-prakash1907/CaterApp/archive/refs/tags/v1.1.zip)\)  
 2. Extract the compressed file (if you have cloned/downloaded) and navigate into **CaterApp** directory  
 3. Execute the `installer.sh` to install the application through following terminal command:  
 ```sh
 $ ./installer.sh
+```
+### Alternate Method 
+If you love the terminal than following method is indeed for you:  
+```sh
+$ wget https://github.com/ravi-prakash1907/CaterApp/archive/refs/tags/v1.1.zip
+$ unzip v1.1.zip
+$ cd CaterApp-1.1
+$ sh ./installer.sh
 ```  
-  
+
 After successful installation, you should see something like this:  
 ![installing screenshot](./assets/installation.png)  
 
@@ -66,7 +79,8 @@ $ python cater.py
 #### Remember
 1. Keep the file(s) in current working directory, that you want to sahre.  
 2. All your received files will appear in **received/** directory at the current location. 
-3. To know your current location before sharing / receiving the files, run:  
+3. Both - the sender and reciever must be at the same network.  
+4. To know your current location before sharing / receiving the files, run:  
 ```sh
 $ pwd
 ```  
