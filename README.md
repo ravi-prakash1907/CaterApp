@@ -71,7 +71,9 @@ As an alternative, you can also follow the following:
 ```sh
 $ cd ~/CaterApp/caterapp
 $ python cater.py
-```
+```  
+_You can find a brief and perfect usage demo at [this Medium article](https://ravi-prakash1907.medium.com/caterapp-a-quick-file-sharing-tool-for-cli-a62756166153)._  
+
 #### Remember
 1. Keep the file(s) in current working directory, that you want to share.  
 2. All your received files will appear in **received/** directory at the current location. 
